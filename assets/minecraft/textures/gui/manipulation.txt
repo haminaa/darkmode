@@ -1,0 +1,4 @@
+Dark: -83
+Light: -53
+Special: -41
+White: -26
