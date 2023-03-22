@@ -1,0 +1,17 @@
+name: Bug Report
+description: Report a bug or texture issue.
+title: "[BUG]"
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Please describe your issue below.
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: Add any context or screenshots about the bug below.
+    validations:
+      required: false
