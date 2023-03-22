@@ -21,7 +21,7 @@ body:
     attributes:
       label: Link to the mod page
       description: Please provide a URL to the mod page.
-      placeholder: "Example: https://modrinth.com/resourcepack/default-dark-mode"
+      placeholder: "Example: https://www.curseforge.com/minecraft/texture-packs/darkmode"
     validations:
       required: true
 
