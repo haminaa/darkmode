@@ -9,6 +9,13 @@ credit or link to this project is appreciated.
 
 https://www.curseforge.com/minecraft/texture-packs/darkmode
 
+
+### What versions work for which mods?
+Most of the Mods supported should work in it's intended version. If a mod is updated there is a big chance this texture pack will still work on both the newer and older versions, if not, feel free to leave a review below or open a github issue.
+
+### Can i contribute to this Project?
+Yes, if you created a dark mode version for a certain mod not included in the list above or added support for a version that was previously not working correctly, you can submit files on github or dm me.
+
 ## Mod support
 
 - Actually Additions
