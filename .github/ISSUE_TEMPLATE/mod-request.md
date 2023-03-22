@@ -1,14 +1,67 @@
----
-name: Mod request
-about: Request a mod
-title: "[MOD REQUEST]"
-labels: ''
-assignees: ''
+name: Mod Support Request
+description: Request support for a specific mod
+title: "[Mod Support Request] EXAMPLE MOD"
+labels: ["🧩 mod-support"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+      
+        Please check for duplicated first and only request one mod each Issue.
 
----
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: Add any context or screenshots about the requested mod below.
+    validations:
+      required: false
 
-**Description**
-A clear and concise description of what the bug is.
+  - type: input
+    id: url
+    attributes:
+      label: Link to the mod page
+      description: Please provide a URL to the mod page.
+    validations:
+      required: true
 
-**Link to Mod**
-Link to the Mod page.
+  - type: dropdown
+    id: versions
+    attributes:
+      label: Game versions
+      description: What game versions should be supported? Select all applicable game versions.
+      multiple: true
+      options:
+        - 1.20
+        - 1.19
+        - 1.18
+        - 1.17
+        - 1.16
+        - 1.15
+        - 1.14
+        - 1.13
+        - 1.12
+        - 1.11
+        - 1.10
+        - 1.9
+        - 1.8
+        - 1.7
+        - 1.6
+        - any
+    validations:
+      required: true
+
+  - type: dropdown
+    id: modloaders
+    attributes:
+      label: Modloaders
+      description: What modloader is the mod using? Select all applicable modloaders.
+      multiple: true
+      options:
+        - Fabric
+        - Forge
+        - Quilt
+        - Other
+        - I don't know
+    validations:
+      required: true
