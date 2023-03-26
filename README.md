@@ -5,5 +5,7 @@ This project provides dark mode themes for most of the popular mods for minecraf
 
 ### Mod Support
 https://www.curseforge.com/minecraft/texture-packs/darkmode
+[![App Screenshot](https://i.imgur.com/FummF1V.png)](https://www.curseforge.com/minecraft/texture-packs/darkmode)
 ### Vanilla version only
 https://www.curseforge.com/minecraft/texture-packs/vanilla-darkmode
+[![App Screenshot](https://i.imgur.com/FummF1V.png)](https://www.curseforge.com/minecraft/texture-packs/vanilla-darkmode)
