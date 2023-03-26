@@ -1,5 +1,7 @@
 
-# Darkmode Modded
+# Open Darkmode
+
+![App Screenshot](https://i.imgur.com/fmW2wEZ.png)
 ![App Screenshot](https://i.imgur.com/Dj5f4Mb.png)
 
 This resource pack is a collection of dark mode
