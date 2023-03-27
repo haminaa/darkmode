@@ -119,5 +119,5 @@ Open Darkmode currently supports over 100 mods and counting:
 - Wireless Crafting Terminal
 - XNet
 
-# Resource
+# Resources
 If you found a bug or want to request a mod feel free to [open a issue](https://github.com/haminaa/darkmode/issues/new/choose/). If you need help or have more questions you can join the [official discord server](https://discord.gg/XkjYm3EW2r).
