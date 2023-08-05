@@ -8,12 +8,12 @@
     Darkmode aims to bring darkmode to most popular minecraft mods. It gives the Minecraft & Mod GUIs a darker look while maintaining the original textures. You can use any of it's contents as you wish, credit or link to this project is appreciated.
 </p>
 
-# Downloads
+## Downloads
 All versions can be downloaded from the [GitHub Releases page](https://github.com/haminaa/darkmode/releases).
 
 This resource pack is also available on [CurseForge](https://www.curseforge.com/minecraft/texture-packs/darkmode) & [Modrinth](https://modrinth.com/resourcepack/darkmode).
 
-# Mod suppor
+## Mod support
 Darkmode currently supports the mods listed below:
 
 - Actually Additions
@@ -119,5 +119,5 @@ Darkmode currently supports the mods listed below:
 - Wireless Crafting Terminal
 - XNet
 
-# Resources
+## Resources
 If you found a bug or want to request a mod feel free to [open a issue](https://github.com/haminaa/darkmode/issues/new/choose/). If you need help or have more questions you can join the [official discord server](https://discord.gg/XkjYm3EW2r).
