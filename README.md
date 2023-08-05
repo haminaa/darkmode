@@ -1,11 +1,11 @@
 <p align="center">
-    <h1 align="center">Open Darkmode</h1>
+    <h1 align="center">Darkmode</h1>
 </p>
 
 ![App Screenshot](https://i.imgur.com/Dj5f4Mb.png)
 
 <p align="center">
-   Open Darkmode is a public project with the aim to bring darkmode to most popular minecraft mods. It also gives the Minecraft GUI a darker look while maintaining the vanilla textures. You can use any of it's contents as you wish, credit or link to this project is appreciated.
+    Darkmode is a public project with the aim to bring darkmode to most popular minecraft mods. It also gives the Minecraft GUI a darker look while maintaining the vanilla textures. You can use any of it's contents as you wish, credit or link to this project is appreciated.
 </p>
 
 # Downloads
@@ -13,8 +13,8 @@ All versions can be downloaded from the [GitHub Releases page](https://github.co
 
 This resource pack is also available on [CurseForge](https://www.curseforge.com/minecraft/texture-packs/darkmode) & [Modrinth](https://modrinth.com/resourcepack/darkmode).
 
-# Mod support
-Open Darkmode currently supports over 100 mods and counting:
+# Mod suppor
+Darkmode currently supports the mods listed below:
 
 - Actually Additions
 - Advanced Generators
