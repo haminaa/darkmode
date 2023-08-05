@@ -5,7 +5,7 @@
 ![App Screenshot](https://i.imgur.com/Dj5f4Mb.png)
 
 <p align="center">
-    Darkmode is a public project with the aim to bring darkmode to most popular minecraft mods. It also gives the Minecraft GUI a darker look while maintaining the vanilla textures. You can use any of it's contents as you wish, credit or link to this project is appreciated.
+    Darkmode aims to bring darkmode to most popular minecraft mods. It gives the Minecraft & Mod GUIs a darker look while maintaining the original textures. You can use any of it's contents as you wish, credit or link to this project is appreciated.
 </p>
 
 # Downloads
